@@ -1,5 +1,5 @@
 ## ﻿🐸 Monster Swamp — Beta Release
-Welcome to the chaotic swamp of code! This is the Beta version of the Monster Swamp game, and let's be honest — the code is messy. Like, 3500+ lines of absolute spaghetti. But hey, it's alive and kicking!
+Welcome to the chaotic swamp of code! This is the Beta version of the Monster Swamp game, and let's be honest — the code is messy. Like, 3500+ lines of code 🙃.
 
 ## 🌐 Live version:
 ▶ Play Monster Swamp Beta (https://r1derpush.github.io/monster-swamp-Beta/)

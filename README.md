@@ -25,5 +25,4 @@ Performance issues on low-end devices
 
  Polish UI/UX
 
- Turn spaghetti into sushi 🍣
-
+to be continued...

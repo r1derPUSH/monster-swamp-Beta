@@ -25,4 +25,8 @@ Performance issues on low-end devices
 
  Polish UI/UX
 
+## > ❗ This was my first big vanilla JS game — over 3500 lines of raw, unstructured, chaotic code. It works, but it’s not pretty 😅  
+## > I’m keeping it public to show my growth and remind myself how far I've come.  
+## > A full OOP rework is coming in a future project. Stay tuned 🚀  
+
 to be continued...
